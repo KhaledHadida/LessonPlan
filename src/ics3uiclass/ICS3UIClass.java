@@ -12,6 +12,14 @@ import javax.swing.JFrame;
  * @author ${user}
  */
 
+//Definitions
+// Try/ catch block ..  handles the type of exception indicated by its argument. 
+
+
+// BufferedImage .. subclass describes an Image with an accessible buffer of image data, 
+// comprised of a ColorModel ( translating a pixel value to color components) and a Raster (meaning rectangular array of pixels) of image data.
+
+
 
 
 
